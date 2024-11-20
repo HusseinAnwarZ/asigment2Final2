@@ -1,0 +1,15 @@
+/Users/ra/Projects/asigment2Final2/asigment2Final2/bin/Debug/net7.0/asigment2Final2
+/Users/ra/Projects/asigment2Final2/asigment2Final2/bin/Debug/net7.0/asigment2Final2.deps.json
+/Users/ra/Projects/asigment2Final2/asigment2Final2/bin/Debug/net7.0/asigment2Final2.runtimeconfig.json
+/Users/ra/Projects/asigment2Final2/asigment2Final2/bin/Debug/net7.0/asigment2Final2.dll
+/Users/ra/Projects/asigment2Final2/asigment2Final2/bin/Debug/net7.0/asigment2Final2.pdb
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.csproj.AssemblyReference.cache
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.AssemblyInfoInputs.cache
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.AssemblyInfo.cs
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.csproj.CoreCompileInputs.cache
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.dll
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/refint/asigment2Final2.dll
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.pdb
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/asigment2Final2.genruntimeconfig.cache
+/Users/ra/Projects/asigment2Final2/asigment2Final2/obj/Debug/net7.0/ref/asigment2Final2.dll
